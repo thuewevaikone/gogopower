@@ -1,0 +1,5 @@
+This version of cFosSpeed is an OEM-product, 
+build for Micro-Star INT’L CO., New Taipei City, Taiwan.
+
+If you have questions, please refer to the contact
+information given in their licensing terms.
